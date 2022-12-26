@@ -1,0 +1,45 @@
+.main-header {
+    background: url(../Images/violetbackground.gif);
+    min-height: 750px;
+    max-height: 750px;
+    background-size: cover;
+    background-position: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.section-testimonials {
+    background: url(../Images/services-bg2.png);
+    min-height: 750px;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.section-services {
+    background: url(../Images/services-bg1.png);
+    min-height: 750px;
+    background-size: cover;
+    background-position: top;
+}
+
+/* FOOTER */
+.logo1 {
+    position: absolute;
+    left: 23%
+}
+
+/* FOOTER: SOCIAL MEDIA ICONS */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white
+}

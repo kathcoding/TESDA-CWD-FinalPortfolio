@@ -1,0 +1,44 @@
+.main-header {
+    background: url(../Images/violetbackground.png);
+    min-height: 100px;
+    max-height: 600px;
+    background-size: cover;
+    background-position: top; 
+}
+
+/* Blog Body */
+.section-blog {
+    background-color: white;
+}
+
+/* Best of the Best Project */
+.section-bobproj {
+    background-color: white;
+}
+
+/* Search Bar */
+.section-searchbar {
+    background-color: white;
+}
+
+/* Award-Winning Project */
+.section-awp {
+    background-color: pink;
+}
+
+/* FOOTER */
+.logo1 {
+    position: absolute;
+    left: 23%
+}
+
+/* FOOTER: SOCIAL MEDIA ICONS */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white
+}

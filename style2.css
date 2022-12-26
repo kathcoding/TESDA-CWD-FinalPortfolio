@@ -1,0 +1,67 @@
+.main-header {
+    background: url(../Images/violetbackground.png);
+    min-height: 100px;
+    max-height: 600px;
+    background-size: cover;
+    background-position: top; 
+}
+
+/* ABOUT SECTION */
+.section-profile {
+    background-color: white;
+}
+
+.section-exp {
+    background: url(../images/services-bg2.png);
+    min-height: 700px;
+    background-size: cover;
+    background-position: bottom;
+}
+
+/* SIGN UP */
+.section-account {
+    background-color: white;
+}
+
+/* CONTACT */
+.section-contact {
+    background-color: white;
+}
+
+    /* Label Focus Color */
+    .input-field input[type=text]:focus{
+        color: white;
+    }
+
+    .input-field input[type=email]:focus{
+        color: white;
+    }
+
+    /* Valid Color */
+    .input-field input[type=text].valid{
+        border-bottom: 1px solid white;
+        box-shadow: 0 1px 0 0 white;
+    }
+
+    .input-field input[type=email].valid{
+        border-bottom: 1px solid white;
+        box-shadow: 0 1px 0 0 white;
+    }
+
+
+/* FOOTER */
+.logo1 {
+    position: absolute;
+    left: 23%
+}
+
+/* FOOTER: SOCIAL MEDIA ICONS */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white
+}

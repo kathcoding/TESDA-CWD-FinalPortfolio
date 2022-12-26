@@ -1,0 +1,30 @@
+.main-header {
+    background: url(../Images/violetbackground.png);
+    min-height: 50px;
+    max-height: 65px;
+    background-size: cover;
+    background-position: top; 
+}
+
+/* BLOGS */
+    /* Supreme */
+    .blog-supreme {
+        background-color: white;
+    }
+
+/* FOOTER */
+.logo1 {
+    position: absolute;
+    left: 23%
+}
+
+/* FOOTER: SOCIAL MEDIA ICONS */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white
+}
