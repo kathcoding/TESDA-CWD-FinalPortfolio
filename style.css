@@ -6,6 +6,7 @@
     background-position: center;
 }
 
+/* SECTION HEADERS */
 .center {
     display: block;
     margin-left: auto;
@@ -13,18 +14,20 @@
     width: 50%
 }
 
-.section-testimonials {
-    background: url(../Images/services-bg2.png);
-    min-height: 750px;
-    background-size: cover;
-    background-position: bottom;
-}
-
+/* SERVICES */
 .section-services {
     background: url(../Images/services-bg1.png);
     min-height: 750px;
     background-size: cover;
     background-position: top;
+}
+
+/* TESTIMONIALS */
+.section-testimonials {
+    background: url(../Images/services-bg2.png);
+    min-height: 750px;
+    background-size: cover;
+    background-position: bottom;
 }
 
 /* FOOTER */
